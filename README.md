@@ -1,4 +1,4 @@
-# __Implementations__ - code for different algorithms and data structures
+## __Implementations__ - code for different algorithms and data structures
 
 |Sorting algorithms|Usage|
 |---|--|
@@ -10,7 +10,7 @@
 |Karatsuba (TODO)|n-digit and polynomial multiplication|
 
 
-# __Lamiglowki__ *(pl. Łamigłówki)* - solutions to exercises from different sources
+## __Lamiglowki__ *(pl. Łamigłówki)* - solutions to exercises from different sources
 
 |Source| Description| Link|
 |--|--|--|
