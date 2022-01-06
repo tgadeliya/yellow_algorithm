@@ -1,9 +1,18 @@
-# yellow_algorithm
+# __Implementations__ - code for different algorithms and data structures
 
-__Implementations__ - package with different algorithms.
+|Sorting algorithms|Usage|
+|---|--|
+|[Merge sort](implementations/merge_sort.py)|-|
+|Insertion sort (TODO)|-|
 
-__Lamiglowki__ *(pl. Łamigłówki)* - solutions to exercises from different sources.
+|Number-theoretic algorithms|Usage|
+|--|--|
+|Karatsuba (TODO)|n-digit and polynomial multiplication|
 
-Links to other algo stuff:
 
-- [Advent of code 2021](https://github.com/tgadeliya/advent_of_code_2021) 
+# __Lamiglowki__ *(pl. Łamigłówki)* - solutions to exercises from different sources
+
+|Source| Description| Link|
+|--|--|--|
+|Codeforces|Competitive programming|https://codeforces.com|
+|Advent of code 2021 (TODO: Move from other repo)|-|https://adventofcode.com/2021
