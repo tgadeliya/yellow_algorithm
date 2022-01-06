@@ -1,3 +1,4 @@
+![](res/yellow_submarine.png)
 ## __Implementations__ - code for different algorithms and data structures
 
 |Sorting algorithms|Usage|
