@@ -46,18 +46,3 @@ class BinaryHeap:
     @staticmethod
     def get_parent(idx: int)-> int:
         return floor((idx-1)/2)
-
-
-
-if __name__ == "__main__":
-    heap = BinaryHeap()
-    ##
-    l = [3,2,1,5,11,4]
-    for e in l:
-        print(e)
-        heap.insert(e)
-    
-    print(l)
-    for i in range(len(l)):
-        print(heap.get_min(), end=" ")
-        heap.remove_min()
