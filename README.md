@@ -5,6 +5,8 @@
 |---|--|
 |[Merge sort](implementations/merge_sort.py)|-|
 |Insertion sort (TODO)|-|
+|Heap sort (TODO)|-|
+|Heap sort (inplace) (TODO)|-|
 
 |Number-theoretic algorithms|Usage|
 |--|--|
