@@ -10,6 +10,9 @@
 |--|--|
 |Karatsuba (TODO)|n-digit and polynomial multiplication|
 
+|Data Structures|Usage|
+|---|--|
+|[Binary heap](implementations/binary_heap.py)|-|
 
 ## __Lamiglowki__ *(pl. Łamigłówki)* - solutions to exercises from different sources
 
