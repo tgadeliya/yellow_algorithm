@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Users",
+			"path": "../../.."
+		},
+		{
+			"name": "intro to algorithms",
+			"path": "../../../../intro to algorithms"
+		}
+	],
+	"settings": {
+		"makefile.configureOnOpen": false
+	}
+}
