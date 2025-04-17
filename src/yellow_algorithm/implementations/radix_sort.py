@@ -1,5 +1,6 @@
 from typing import Iterable
 
+
 def counting_sort(A: Iterable[int]):
     """
     Counting sort
@@ -17,11 +18,15 @@ def counting_sort(A: Iterable[int]):
             A[i] = c
             i += 1
 
+
 def radix_sort(A: Iterable[int]):
     n = len(A)
     u = 1 + max([a for a in A])
     c = 1 + (u.bit_length() // n.bit_length())
-    class Obj:pass
+
+    class Obj:
+        pass
+
     D = [Obj() for a in A]
     for i in range(n):
         D[i].digits = []
@@ -30,7 +35,7 @@ def radix_sort(A: Iterable[int]):
         for j in range(c):
             high, low = divmod(high, n)
             D[i].digits.append(low)
-    
+
     for i in range(c):
         for j in range(n):
             D[j].key = D[j].digits[i]
