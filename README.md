@@ -1,2 +1,2 @@
 ![](res/yellow_submarine.png)
-## Implementation of different algorithms and datastructures 
+## Implementation of different algorithms and data structures 
