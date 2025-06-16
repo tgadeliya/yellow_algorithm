@@ -29,10 +29,8 @@ TODOs:
 | [`dfs`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/graphs/dfs.py) |
 | [`dfs_rec`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/graphs/dfs.py) |
 | [`full_dfs`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/graphs/full_dfs.py) |
-|-----------|
 | **Search Algorithms** |
 | [`binary_search`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/binary_search.py) |
-|-----------|
 | **Data Structures** |
 | [`DoublyLinkedList`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/doubly_linked_list.py) |
 | [`LinkedList`](https://github.com/tgadeliya/yellow_algorithm/blob/main/src/yellow_algorithm/implementations/linked_list.py) |
