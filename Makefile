@@ -1,5 +1,2 @@
-
-
-
 black:
 	black src tests
